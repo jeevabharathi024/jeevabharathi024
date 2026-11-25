@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Jeeva%20Bharathi%20V&fontColor=ede9fe&fontSize=52&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+MERN;React.js+%C2%B7+Node.js+%C2%B7+Express.js+%C2%B7+SQL;Building+Scalable+Web+Applications;AI+%26+ML+Research+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+MERN;React.js+%C2%B7+Node.js+%C2%B7+Express.js+%C2%B7+SQL;Building+Scalable+Web+Applications;AI+%26+ML" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jeeva-bharathi-v"><img src="https://img.shields.io/badge/LinkedIn-Connect-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:jeevabharathic297@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/jeevabharathi024"><img src="https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -56,14 +56,11 @@ Here are some ideas to get you started:
 
 I am a Computer Science undergraduate at **Annamalai University** with hands-on experience in **MERN full stack development**. I build responsive React interfaces, design RESTful APIs with Node.js and Express.js, and model application data with SQL. I care about clean component architecture, maintainable code, and shipping features that solve real user problems.
 
-My research work spans **AI-based cyber threat detection using machine learning** and **big data analytics for business intelligence**, presented at national-level academic forums. I approach engineering with a product mindset: understand the user, design the system, ship, test, and iterate.
 
 **Open To**
 
 - Entry-level Software Developer roles (MERN Full Stack)
 - Internships and collaborative engineering projects
-- Open source contributions and research collaborations
-
 ---
 
 ## Tech Stack
@@ -86,11 +83,7 @@ My research work spans **AI-based cyber threat detection using machine learning*
 <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,mysql,mongodb&theme=dark" alt="Backend and Databases" />
 </p>
 
-**Cloud, DevOps & Tooling**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,linux&theme=dark" alt="Tooling" />
-</p>
 
 ---
 
@@ -191,32 +184,19 @@ Hands-on full stack development training focused on building and integrating pro
 
 ## Certifications
 
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Roadmap-4c1d95?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Java](https://img.shields.io/badge/Oracle%20Java%20SE-Roadmap-6d28d9?style=for-the-badge&logo=oracle&logoColor=white)
 
 **NPTEL**
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Roadmap-4338ca?style=for-the-badge)
 
-**Cisco**
 
-![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-Roadmap-7c3aed?style=for-the-badge&logo=cisco&logoColor=white)
-
----
 
 ## Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6d28d9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-Profile-4338ca?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-Profile-7c3aed?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+
 
 </div>
 
@@ -226,10 +206,10 @@ Hands-on full stack development training focused on building and integrating pro
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeevabharathi024&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ede9fe&sideNums=ede9fe&dates=8b5cf6" alt="Streak Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevabharathi024&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
 
 </div>
 
@@ -249,7 +229,7 @@ Hands-on full stack development training focused on building and integrating pro
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ede9fe&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevabharathi024&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ede9fe&area=true&area_color=4c1d95&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -259,7 +239,7 @@ Hands-on full stack development training focused on building and integrating pro
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/jeevabharathi024/jeevabharathi024/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
@@ -275,9 +255,6 @@ Learning:
 Building:
   - Full stack MERN applications
   - This GitHub profile and portfolio
-Exploring:
-  - Machine learning for cybersecurity
-  - Big data analytics and business intelligence
 Open To:
   - Entry-level Software Developer roles
   - Internships, open source, and research collaboration
@@ -290,8 +267,8 @@ Open To:
 <div align="center">
 
 <a href="mailto:jeevabharathic297@gmail.com"><img src="https://img.shields.io/badge/Gmail-jeevabharathic297@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Jeeva%20Bharathi%20V-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jeeva-bharathi-v"><img src="https://img.shields.io/badge/LinkedIn-Jeeva%20Bharathi%20V-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/jeevabharathi024"><img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
