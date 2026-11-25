@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1e1b4b,50:4c1d95,100:7c3aed&text=Jeeva%20Bharathi%20V&fontColor=ede9fe&fontSize=52&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+MERN;React.js+%C2%B7+Node.js+%C2%B7+Express.js+%C2%B7+SQL;Building+Scalable+Web+Applications;AI+%26+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+MERN;React.js+%C2%B7+Node.js+%C2%B7+Express.js+%C2%B7;AI+%26+ML" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -195,7 +195,7 @@ Hands-on full stack development training focused on building and integrating pro
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://leetcode.com/Jeeva_Bharathi_V"><img src="https://img.shields.io/badge/LeetCode-Profile-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 
 </div>
@@ -268,7 +268,7 @@ Open To:
 
 <a href="mailto:jeevabharathic297@gmail.com"><img src="https://img.shields.io/badge/Gmail-jeevabharathic297@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/jeeva-bharathi-v"><img src="https://img.shields.io/badge/LinkedIn-Jeeva%20Bharathi%20V-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/jeevabharathi024"><img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/jeevabharathi024"><img src="https://img.shields.io/badge/GitHub-jeevabharathi024-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
